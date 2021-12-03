@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: rgb(126, 84, 148);
+  text-decoration-style: wavy;
+}
+
+one {
+  background-color: aliceblue;
+}
+
+Profile {
+  border-radius: 80%;
+  width: 300px;
+  height: 300px;
+}
+p{
+  font-size: 50px;
+}
+div {padding: 30px;}
+button {border-radius: 30%;}
